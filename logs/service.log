@@ -10,3 +10,17 @@
 2026-07-13 06:31:55,778 INFO reading environment configuration
 2026-07-13 06:31:55,778 ERROR required environment variable "APP_CONFIG" is not set
 2026-07-13 06:31:55,779 FATAL cannot locate configuration, shutting down
+2026-08-21 10:15:56,765 ERROR required environment variable "APP_CONFIG" is not set
+2026-08-21 10:15:56,765 CRITICAL cannot locate configuration, shutting down
+2026-08-21 10:19:06,497 INFO loaded configuration from config\production.conf
+2026-08-21 10:19:06,497 INFO starting CloudNotes service on 0.0.0.0:8080
+2026-08-21 10:20:06,052 INFO shutdown requested, stopping service
+2026-08-21 10:20:20,707 INFO loaded configuration from config\production.conf
+2026-08-21 10:20:20,707 INFO starting CloudNotes service on 0.0.0.0:8080
+2026-08-21 10:20:47,230 INFO request /health
+2026-08-21 10:22:51,740 INFO shutdown requested, stopping service
+2026-08-21 10:22:56,553 INFO loaded configuration from config\production.conf
+2026-08-21 10:22:56,553 INFO starting CloudNotes service on 127.0.0.1:5000
+2026-08-21 10:24:55,463 INFO request /health
+2026-08-21 10:30:55,539 ERROR required environment variable "APP_CONFIG" is not set
+2026-08-21 10:30:55,539 CRITICAL cannot locate configuration, shutting down
